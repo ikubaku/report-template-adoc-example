@@ -1,0 +1,6 @@
+= report-template-adoc-example
+
+Examples for https://github.com/ikubaku/report-template-adoc[report-template-adoc]
+
+== LICENSE
+See: link:./LICENSE[LICENSE]
